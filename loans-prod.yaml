@@ -1,7 +1,7 @@
 build:
   version: '1.0'
 loans:
-  message: "Welcome to CapferBank loans related PROD APIs"
+  message: "Welcome to CapferBank loans related PRODUCTION APIs"
   contactDetails:
     name: "Mestre Caito - Product Owner"
     email: "{cipher}4edde08c54af193955b59306544f3d21f9069faa1ef81cfdb564d45a5944148759c2691f94e636ed038e831d85a8e311"
